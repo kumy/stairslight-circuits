@@ -338,19 +338,10 @@ UsedLibrary="/home/kumy/Documents/EAGLE/libraries/con-headers-jp.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="493 219 1092 618"
+Loc="0 24 599 423"
 State=1
 Number=0
 
-[Win_2]
-Type="CAM Processor"
-Loc="666 103 1265 631"
-State=2
-Number=3
-File="FT232R-perso.brd"
-Job="/home/kumy/.eagle/cam/sfe-gerb274x.cam"
-
 [Desktop]
-Screen="1280 800"
+Screen="1680 1050"
 Window="Win_1"
-Window="Win_2"
