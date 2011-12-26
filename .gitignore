@@ -12,3 +12,5 @@
 *.s#?
 *.tar.gz
 *.TXT
+*.pro
+eagle.epf
